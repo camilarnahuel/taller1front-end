@@ -9,8 +9,8 @@ body{
 }
 
 h1{
-  color: #FFFFFF;
-  text-shadow: 2px 2px 2px #000000;
+  color: #000000;
+  /*text-shadow: 2px 2px 2px #000000;*/
   text-align: center;
   padding: 20px;
 }
@@ -61,4 +61,9 @@ background-color: #FFFFFF;
 
 .modal-body{
 	background-color: rgba(254, 212, 251,0.5);
+}
+
+.eje4{
+	
+
 }
